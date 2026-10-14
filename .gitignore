@@ -1,0 +1,13 @@
+# Thư viện Node.js
+node_modules/
+
+# Biến môi trường
+.env
+.env.*
+
+# File build
+dist/
+build/
+
+# Log
+npm-debug.log*
